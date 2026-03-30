@@ -67,7 +67,7 @@ const Contact: React.FC = () => {
           phone: form.phone || 'Not provided',
           service: form.service || 'Not specified',
           message: form.message,
-          subject: `New Inquiry from ${form.name} - Interior With SAI`
+          subject: `New Inquiry from ${form.name} - Decor Studio`
         })
       });
       

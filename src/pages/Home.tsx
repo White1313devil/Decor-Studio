@@ -16,7 +16,7 @@ const testimonials = [
     name: 'Priya Sharma',
     role: 'Homeowner, Hosur',
     content:
-      'Interior With SAI completely transformed our home. The attention to detail and the final outcome exceeded every expectation we had. Simply breathtaking!',
+      'Decor Studio completely transformed our home. The attention to detail and the final outcome exceeded every expectation we had. Simply breathtaking!',
     rating: 5,
     initials: 'PS',
     accent: '#c9a96e',

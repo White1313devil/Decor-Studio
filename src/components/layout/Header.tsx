@@ -75,8 +75,8 @@ const Header: React.FC = () => {
               style={{ display: 'flex', alignItems: 'center', gap: '12px' }}
             >
               <img
-                src="/Logo png.png"
-                alt="Interior With SAI Logo"
+                src="/Logo01.png"
+                alt="Decor Studio"
                 style={{ height: '48px', width: 'auto', objectFit: 'contain', filter: 'drop-shadow(0 4px 12px rgba(201,169,110,0.15))' }}
               />
             </motion.div>

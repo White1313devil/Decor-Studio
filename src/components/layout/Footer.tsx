@@ -85,7 +85,7 @@ const Footer: React.FC = () => {
             <Link to="/" style={{ textDecoration: 'none', display: 'inline-flex', alignItems: 'center', gap: '12px', marginBottom: '20px' }}>
               <img 
                 src="/Logo01.png" 
-                alt="Interior With SAI Logo" 
+                alt="Decor Studio Logo" 
                 style={{ height: '56px', width: 'auto', objectFit: 'contain', filter: 'drop-shadow(0 4px 12px rgba(201,169,110,0.15))' }} 
               />
             </Link>
